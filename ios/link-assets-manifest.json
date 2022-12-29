@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Fruity Stories.ttf",
+      "sha1": "60ffe5ac467a888bb8617166ba8bd0a07af03cf1"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Bold.ttf",
+      "sha1": "bd9707aad222a53f88a00d8389e7e0fbeefeaa52"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Regular.ttf",
+      "sha1": "95f405d66578ae639e154a5249f4590098684ba1"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-SemiBold.ttf",
+      "sha1": "9695f75e7b8d95d6db3130eb7be32286538e4af7"
+    },
+    {
+      "path": "assets/fonts/Mackless-Script.otf",
+      "sha1": "4c0fc3d38ea4fb9ed4446a36213bf04fcd7aef46"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "413c7c6188f5b73482c71097dcc86cff6ded05f6"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "ef1c52ba60c3128e36064c827ecabc8f53bb8004"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "7ec8b23db953874bbc2802b49bbf57c9b87a1d1c"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "b154c9a349e19de35b375e6cdb0ee9b8c89c3d4d"
+    }
+  ]
+}
